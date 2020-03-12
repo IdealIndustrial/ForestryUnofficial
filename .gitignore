@@ -1,24 +1,9 @@
-# everything
-/*
 
-# folders
-!/forestry_techne
-!/gradle/wrapper
-!/src
-!/api
-!/test
+.gradle/
 
-# files
-!/.gitignore
-!/.gitmodules
-!/CLA.txt
-!/CONTRIBUTING.md
-!/LICENSE.txt
-!/license-header.txt
-!/README.md
-!/gradle.properties
-!/build.gradle
-!/build.xml
-!/gradlew
-!/gradlew.bat
-.DS_Store
+*.iml
+*.ipr
+*.iws
+formatting-settings.jar
+*.txt
+out/
